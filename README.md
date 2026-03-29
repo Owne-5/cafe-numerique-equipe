@@ -1,0 +1,19 @@
+# Le Cafe Numerique
+
+Site vitrine d'un cafe fictif — realise en HTML/CSS pur.
+
+## Pages
+
+- Accueil
+
+- La Carte
+
+- A propos
+
+- Contact
+
+## Technologies
+
+- HTML 5
+
+- CSS 3
